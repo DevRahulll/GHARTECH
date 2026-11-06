@@ -25,13 +25,13 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
-  <img src="assets/cooking.svg" alt="Something big is cooking. Brick by brick, byte by byte." width="100%"/>
+  <img src="cooking.svg" alt="Something big is cooking. Brick by brick, byte by byte." width="100%"/>
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 🏠 The idea
 
